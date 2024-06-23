@@ -31,12 +31,13 @@ With 5+ years of experience in full-stack development, I specialize in frontend 
 ### AI-Based Common Thorax Disease Detector
 A deep learning CNN model using PyTorch for X-ray image classification, achieving 93% accuracy.
 - **Tech Stack:** PyTorch, React, Flask
-- [GitHub Repo](https://github.com/rahulnayanegali/thorax-disease-detector)
+- [GitHub Repo](https://github.com/rahulnayanegali/MedX.ai)
 
 ### Sorting Algorithms Simulation
 A web application visualizing sorting algorithms using React.js and Spring Boot API.
 - **Tech Stack:** React.js, Spring Boot, Server-Sent Events
-- [GitHub Repo](https://github.com/rahulnayanegali/sorting-algorithms-simulation)
+- [Backend Spring Boot GitHub Repo](https://github.com/rahulnayanegali/backend-algos-simulation)
+- [Frontend React GitHub Repo](https://github.com/rahulnayanegali/algos-frontend)
 
 ## 📊 GitHub Stats
 
