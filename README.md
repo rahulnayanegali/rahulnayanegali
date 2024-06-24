@@ -4,7 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahulnayanegali/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nayanegali.rahul@gmail.com)
 
-## 💻 Senior Software Engineer | AI Enthusiast | Full Stack Developer
+## 💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=Senior+Software+Engineer;AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" /></a>
 
 With 5+ years of experience in full-stack development, I specialize in frontend technologies and AI integration. I'm passionate about crafting efficient, scalable solutions and leveraging cutting-edge technologies.
 
