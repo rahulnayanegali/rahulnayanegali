@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnayanegali&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnayanegali" /> </p>
 
-# Hello, I'm Rahul Anand Nayanegali 👋
+# Hello, I'm Rahul Nayanegali 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://rahulnayanegali.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahulnayanegali/)
